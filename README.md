@@ -5,7 +5,7 @@ There was a time when writing code meant staring at a blank screen, solving prob
 
 The Shift from Writing Code to Building Intelligence
 
-Developers <a href="(https://aitech.edu.pk/career-tracks/ai-machine-learning/)">Open Link</a> are no longer just writing instructions for machines; they’re designing systems that can learn, adapt, and make decisions. AI introduces a new mindset. Instead of focusing only on “how to code,” developers now think about “how the system should behave.”
+Developers are no longer just writing instructions for machines; they’re designing systems that can learn, adapt, and make decisions. AI introduces a new mindset. Instead of focusing only on “how to code,” developers now think about “how the system should behave.”
 
 This shift is subtle but powerful. It transforms development from a mechanical process into a creative one, where logic meets learning.
 
@@ -55,3 +55,5 @@ Final Thoughts
 AI is not here to replace developers—it’s here to amplify their potential. It turns ordinary development into something dynamic, intelligent, and future-ready. The developers who succeed in this new era will be the ones who adapt, experiment, and continue learning.
 
 If you’re ready to step into the future of development, now is the time to explore AI. Courses and learning resources are available—start your journey today and build smarter, not just faster.
+
+https://aitech.edu.pk/career-tracks/ai-machine-learning/
